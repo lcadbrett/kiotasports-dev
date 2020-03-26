@@ -1,13 +1,6 @@
 ---
-title: "Contact"
+title: Coach Jude Katende
 ---
+![Coach katende profile](img/katende-bio.png "Image of coach katende picture")
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
-
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+Coach Katende has years of experience as a player and young teacher. He’s also a Professional high school IT/economics teacher, Fufa Certified Coach, Physical trainer, and IOC/UOC certified sports administrator. With Jude you get real world experience and professional development for all ages.
