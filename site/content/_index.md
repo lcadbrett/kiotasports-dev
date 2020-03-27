@@ -11,10 +11,9 @@ intro:
     <h4>Activities</h4>
 
     Soccer, Swimming, and Basketball
-
-
-    <a class="button" href="#contact">Join the Academy</a>
   button: Join the Academy
+  buttonTitle: Join the Academy
+  buttonURL: '#contact'
 blurb:
   heading: _
   text: _
