@@ -37,4 +37,13 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
+  - name: "blocks"
+    label: "Blocks"
+    files:
+      - file: "site/blocks/test/_index.md"
+        label: "Test Block"
+        name: "test"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
 
