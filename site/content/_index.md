@@ -11,12 +11,8 @@ intro:
     <h4>Activities</h4>
 
     Soccer, Swimming, and Basketball
-  button: Join the Academy
   buttonTitle: Join the Academy
   buttonURL: '#contact'
-blurb:
-  heading: _
-  text: _
 products:
   - image: img/about-reinvest-profits.jpg
   - image: img/about-direct-sourcing.jpg
