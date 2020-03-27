@@ -1,12 +1,19 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+{{ .Title }}
+{{ .Params.image }}
 
-{{ partial "short-text" .Params.blurb}}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
 {{ partial "2-up" .Params }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+<div class="flex-ns mhn2-ns mb3">
+      {{ range .image-carousel }}
+      <div class="ph2-ns w-50-ns">
+        <img src="{{.image}}" alt="" class="center db mb3" style="width: 240px">
+      </div>
+      {{ end }}
+    </div>
 
 {{ partial "contact-form" . }}
 
