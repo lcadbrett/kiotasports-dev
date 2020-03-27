@@ -1,9 +1,12 @@
-{{ define "main" }}
+
 
 <div class="container test-file">
-    {{ .Title }}
-    {{ .Content }}
+{{ range .Data.Pages }}
+    {{ if isset .Params "test" }}
+        {{ .Content }}
+    {{ end }}
+{{ end }}
 
 </div>
 
-{{ end }}
+
