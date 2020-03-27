@@ -1,11 +1,11 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+{{ partial "header-image-block" .Params }}
 
 {{ partial "intro-text" .Params }}
 
 {{ partial "carousel" .Params }}
 
-{{ partial "2-up" .Params }}
+{{ partial "contact-form" .Params }}
 
 {{ end }}
