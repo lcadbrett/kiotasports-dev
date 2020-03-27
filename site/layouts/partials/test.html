@@ -1,7 +1,7 @@
 
 
 <div class="container test-file">
-{{ range .Data.Pages }}
+{{ range .Data.Blocks }}
     {{ if isset .Params "test" }}
         {{ .Content }}
     {{ end }}
