@@ -77,7 +77,6 @@ header a.about {
   height: 500px;
   display: inline-block;
   vertical-align: middle;
-  background: #333 url(images/hero.png) no-repeat center center;
   background-size: cover;
 }
 @media (max-width: 630px) {
