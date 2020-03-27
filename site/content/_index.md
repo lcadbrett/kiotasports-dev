@@ -14,6 +14,7 @@ intro:
 
 
     <a class="button" href="#contact">Join the Academy</a>
+  button: Join the Academy
 blurb:
   heading: _
   text: _
