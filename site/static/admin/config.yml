@@ -40,7 +40,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "blocks"
     label: "Blocks"
     files:
-      - file: "site/blocks/test/_index.md"
+      - file: "site/content/test/_index.md"
         label: "Test Block"
         name: "test"
         fields:
