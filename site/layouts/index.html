@@ -1,5 +1,12 @@
 {{ define "main" }}
 
+{{ range .blurb }}
+      <div class="ph2-ns w-50-ns">
+        {{.heading}}
+        {{.text}}
+      </div>
+      {{ end }}
+
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
 {{ partial "2-up" .Params }}
