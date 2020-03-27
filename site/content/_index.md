@@ -1,7 +1,7 @@
 ---
 title: Home
 image: img/hero.png
-metaTags: 
+metaTags: 'trestles chiropractic, something else here, back pain'
 intro:
   heading: Welcome to Kiota Sports Academy
   text: >-
