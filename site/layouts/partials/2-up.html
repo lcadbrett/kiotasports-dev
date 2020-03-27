@@ -1,5 +1,6 @@
 <div class="bg-off-white pv4">
   <div class="ph3 mw7 center">
+    
 
     <div class="flex-ns mhn2-ns mb3">
       {{ range .products }}
@@ -7,6 +8,10 @@
         <img src="{{.image}}" alt="" class="center db mb3" style="width: 240px">
       </div>
       {{ end }}
+    </div>
+
+    <div class="tc">
+      <a href="/products" class="btn raise">See all products</a>
     </div>
   </div>
 </div>

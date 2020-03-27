@@ -1,7 +1,7 @@
 ---
 title: Home
 image: img/hero.png
-blurb:
+intro:
   heading: Welcome to Kiota Sports Academy
   text: >-
     Nurturing talent and character. Providing professional and structured talent
