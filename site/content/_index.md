@@ -14,8 +14,14 @@ intro:
 
 
     <a class="button" href="#contact">Join the Academy</a>
+blurb:
+  heading: _
+  text: _
 products:
   - image: img/about-reinvest-profits.jpg
   - image: img/about-direct-sourcing.jpg
   - image: img/about-shade-grown.jpg
+  - image: img/about-single-origin.jpg
+  - image: img/blog-flavor_wheel.jpg
+  - image: img/products-grid2.jpg
 ---
