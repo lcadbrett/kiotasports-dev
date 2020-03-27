@@ -1,6 +1,7 @@
 ---
 title: Home
 image: img/hero.png
+metaTags: 
 intro:
   heading: Welcome to Kiota Sports Academy
   text: >-
