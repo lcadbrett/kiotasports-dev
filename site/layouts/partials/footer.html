@@ -9,3 +9,30 @@
 </footer>
 
 <script src="/app.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="slick/slick.min.js"></script>
+
+<script type="text/javascript">
+$(document).on('ready', function() {
+  $(".carousel").slick({
+    dots: false,
+    infinite: true,
+    slidesToShow: 4,
+    slidesToScroll: 1,
+    responsive: [
+        {
+          breakpoint: 800,
+          settings: {
+            slidesToShow: 3
+          }
+        },
+        {
+          breakpoint: 550,
+          settings: {
+            slidesToShow: 2
+          }
+        }
+      ]
+  });
+});
+</script>
