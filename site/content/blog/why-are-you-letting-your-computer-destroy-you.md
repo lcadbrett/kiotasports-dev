@@ -1,0 +1,26 @@
+---
+title: Why are you letting your computer destroy you?
+date: 2013-09-23T16:45:00.000Z
+tags: >-
+  List [ "chiropractor san clemente" "San Clemente Chiropractic" "San Clemente
+  Chiropractor" "Work ergonomics" "Wellness coach" "corporate wellness" ]
+description: >-
+  Whether you notice it or not, most people find themselves in one of two
+  positions by the end of the work day. They are either hunched over their
+  keyboard or slouched down into their chair....
+image: img/nerve-scan-olf_1_itok-bddlmbqc.jpg
+---
+Whether you notice it or not, most people find themselves in one of two positions by the end of the work day. They are either hunched over their keyboard or slouched down into their chair. Unfortunately while you may be sitting this way due to fatigue from the long work day, these positions are only going to make you feel worse. Many people seek out a[](<>) [chiropractor in San Clemente](../index.html "Chiropractor in San Clemente") because they want to fix their posture or get rid of pain or headaches that they suffer from. More often than not, these problems begin at school or at work from poor work space ergonomics. If these issues were addressed at an earlier time many of these issues could have been avoided.
+
+What does[](<>) [ergonomics](http://ohsonline.com/articles/2012/10/01/five-changing-trends-in-managing-workplace-ergonomics.aspx "ergonomics") mean? Ergonomics refers to the way that you set up your workspace or desk to allow for you to maintain the optimal posture and positioning. This can be applied to the cars we drive as well as our living spaces. However due to the fact that we spend so much time at work, that will be the focus of this article.
+
+As a[](<>) [wellness coach](../meet-doctors.html "Dr Ryan Anderson") in the community I have the opportunity to go to school and companies in the area to give lectures on workspace ergonomics. This includes setting up your desk for optimal positioning, how to sit, micro-breaks, and avoiding carpal tunnel syndrome.
+
+* **Desk Positioning:**There are several factors that go into setting up a workspace. Monitor height, keyboard and mouse location, and chair positioning. One of the first things to notice with a workspace is that the computer monitor is improperly positioned. It may be too high, too far back or too low. The monitor should be 18-24” from you with the top of the screen at eye level. This will ensure that there is no added pressure or necessary alterations to your posture while sitting. The keyboard and mouse should be positioned in a manner that keeps them close to your body. That way you can relax the shoulders, and keep the elbows at a 90o.
+* **How to sit:**Chair positioning is a key factor. The number to remember is 90o, this applies to the hips, knees and ankles. So as you position the height of the chair make sure that your knees make a 90oangle with your feet flat on the ground. You may need to adjust the lumbar support if available or lock the chair in an upright position to keep your hips in the correct position. By sitting in this way the weight of your body is evenly distributed over your legs and gluts and not just your pelvis. It also keeps the spine in a neutral position rather than straining the low back muscles.
+* **Micro-Breaks:**One of the most critical pieces of advice that can be applied to avoiding work related injury as well as postural problems is to move around. Too often people get stuck sitting for an extended period of time without altering position. Every 30 minutes you need to push away from your desk and do a little stretch for 30 seconds to a minute. The one taught in my wellness courses is called Bruegger’s. This stretch activates the upper back muscles by squeezing the shoulder blades together while sitting up straight and bringing the arms back. This brings the head back over the shoulders and helps maintain posture. Any stretch is a good stretch as long as you move around.
+* **Carpal Tunnel Syndrome:**Carpal tunnel syndrome is a common work place injury that occurs as the musculature in the wrists begin to constrict on the nerves that pass underneath them. Typically symptoms will include lack of motion, numbness, tingling and even shocking pain. Simple wrist stretches can help avoid this as well as using a good quality keyboard with the set up recommended above.
+
+Most companies find that when these proper ergonomic practices are utilized, employees are less tired, more effective and enjoy their work more. Most employees find that they have higher energy levels, get less headaches and are even less prone to getting sick when a bug is going around.
+
+If you have questions about workplace ergonomics or would like to have[](<>) [Dr Anderson](../meet-doctors.html "Dr Ryan Anderson") come talk to your company about how to set up their spaces feel free to contact us. We at this[](<>) [San Clemente chiropractor](../index.html "San Clemente Chiropractor") office hope that no one ends up like poor homer up above. That is unless you own your own spin-o-cylinder… “Patent Pending"
